@@ -1,0 +1,17 @@
+.about-container {
+  padding: 50px;
+  background: #e3f2fd;
+  text-align: center;
+  color: #333;
+  height: 100vh;
+}
+
+.about-container h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.about-container p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+}

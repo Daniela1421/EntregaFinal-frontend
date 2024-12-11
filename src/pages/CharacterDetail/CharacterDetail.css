@@ -1,0 +1,24 @@
+.character-detail-container {
+  text-align: center;
+  padding: 50px;
+  background: #fff;
+  color: #333;
+  min-height: 100vh;
+}
+
+.character-detail-container img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.character-detail-container h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.character-detail-container p {
+  font-size: 1.2rem;
+}
